@@ -1,0 +1,7 @@
+different story.py
+save_load.py
+settings.py
+dialogue.py
+map.py
+  start simple with functions and then revert to claseses to scale?
+

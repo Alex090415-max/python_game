@@ -1,0 +1,8 @@
+To be used to read from for list of actions mid game
+
+EQUIP
+AIM
+ATTACK
+USE FIRST AID
+
+etc.
